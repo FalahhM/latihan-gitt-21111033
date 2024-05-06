@@ -8,7 +8,7 @@
 <body>
     <h1>Penentuan Plat Kendaraan</h1>
     <input type="text" id="inputPlat" placeholder="Masukkan Plat Kendaraan">
-    <button onclick="checkPlat()">Cek Plat</button>
+    <button onclick="checkPlat()">Cek Plat Kendaraan</button>
     <p id="result"></p>
 
     <script src="platKendaraan.js"></script>
